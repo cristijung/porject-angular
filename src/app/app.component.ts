@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Pafúncio Co-working';
-  stitle = 'O melhor estaço para o trabalho!'
+  stitle = 'O melhor espaço para o trabalho!'
   footer = 'Desenvolvido por mim'
 }
